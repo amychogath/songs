@@ -1,4 +1,4 @@
 # songs
 
-22 - Taylor Swift
-Highway to hell - ACDC
+- Taylor Swift: 22
+- ACDC: Highway to hell
